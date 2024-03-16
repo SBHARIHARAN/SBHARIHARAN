@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SBHARIHARAN
-- 👀 I’m interested in Blockchain, Web3.0, Cryptocurrencies, NFT's, Metaverse
-- 🌱 I’m currently learning cybersecurity engineering
-- 💞️ I’m looking to collaborate on the Crypto Exchange
+- 👀 I’m interested in Blockchain, DataScience , CyberSecurity.
+- 🌱 I’m currently Pursuing cybersecurity engineering
+- 💞️ I’m looking for an suitable job for my talent.
 - 📫 How to reach me ...
 - sbhareharan@gmail.com
 
