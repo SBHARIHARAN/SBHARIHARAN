@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SBHARIHARAN
-- 👀 I’m interested in Blockchain, DataScience , CyberSecurity.
-- 🌱 I’m currently Pursuing cybersecurity engineering
-- 💞️ I’m looking for an suitable job for my talent.
+- 👀 I’m interested in Blockchain, DataScience , CyberSecurity,Software Develepment.
+- 🌱 Graduate in B.E CyberSecurity Engineering.
+- 💞️ I’m looking for an suitable job in software development or CyberSecurity for my talent.
+- DSA Trainer.
 - 📫 How to reach me ...
 - sbhareharan@gmail.com
 
